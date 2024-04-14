@@ -1,6 +1,6 @@
 # namer_app2
 
-A new Flutter project.
+A more sophisticated version of namer_app with the abiltiy to like words and more animations.
 
 ## Getting Started
 
