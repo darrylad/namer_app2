@@ -1,6 +1,13 @@
 # namer_app2
 
-A more sophisticated version of namer_app with the abiltiy to like words and more animations.
+A more sophisticated version of namer_app with the abiltiy to like words and more animations, with a responsive interface. This is a personal project to aid in my understanding of flutter.
+
+
+
+![Uploading Screenshot 2024-04-14 at 12.17.50.png…]()
+
+<img width="473" alt="Screenshot 2024-04-14 at 12 23 18" src="https://github.com/darrylad/namer_app2/assets/132708308/ebb19255-e468-45dd-86dd-fb5faa52b9b7">
+
 
 ## Getting Started
 
